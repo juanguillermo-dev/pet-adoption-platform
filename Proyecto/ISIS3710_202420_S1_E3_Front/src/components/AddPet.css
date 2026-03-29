@@ -1,0 +1,81 @@
+/* Contenedor Principal */
+.container {
+  max-width: 900px;
+}
+
+/* Centrado de Texto */
+.text-center {
+  text-align: center;
+}
+
+/* Estilo para Etiquetas */
+.form-group label {
+  font-weight: bold;
+}
+
+/* Estilo del Contenedor de Fotos */
+.photo-upload-container {
+  border: 2px dashed #ccc;
+  padding: 20px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+/* Input de Subida de Fotos Centrado */
+.photo-upload-container input {
+  display: block;
+  margin: 0 auto;
+}
+
+/* Grilla de Fotos */
+.photo-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);  /* Dos columnas para las fotos */
+  gap: 10px;  /* Espacio entre las fotos */
+  margin-top: 10px;
+}
+
+/* Estilo para los Espacios de Fotos */
+.photo-slot {
+  border: 2px dashed #ccc;
+  width: 100%;
+  height: 150px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+/* Estilo del Ícono de Cámara */
+.photo-slot i {
+  font-size: 2rem;
+  color: #666;
+}
+
+/* Estilo del Número dentro del Slot de Fotos */
+.photo-slot span {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  font-size: 1rem;
+  font-weight: bold;
+  color: #333;
+}
+
+/* Botón de Envío Completo */
+.btn-block {
+  width: 100%;
+  margin-bottom: 40px;
+}
+
+/* Estilo para el Botón de Registrar */
+.btn-primary {
+  background-color: #5e5768;
+  border-color: #5e5768;
+}
+
+.btn-primary:hover {
+  background-color: #4d4756; /* Color más oscuro al pasar el mouse */
+  border-color: #4d4756;
+}

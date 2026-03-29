@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "nombre": "Fundacion Patitas Felices",
+        "correo": "fpf@gmail.com",
+        "ciudad": "Bogotá D.C",
+        "direccion": "Calle 23 # 45 C 20",
+        "telefono": "3217564897",
+        "descripcion": "Una fundación dedicada a rescatar, cuidar y encontrar hogares amorosos para mascotas en situación de calle. Promueve la adopción responsable y la educación sobre bienestar animal."
+    },
+    {
+        "id": 2,
+        "nombre": "Fundacion Huellitas Felices",
+        "correo": "funhap@gmail.com",
+        "ciudad": "Medellin",
+        "direccion": "Calle 23 # 45 C 21",
+        "telefono": "3217564231",
+        "descripcion": "Esta organización trabaja en la recuperación de animales abandonados y maltratados, brindándoles una segunda oportunidad a través de programas de adopción y apoyo veterinario."
+    },
+    {
+        "id": 3,
+        "nombre": "Amigos de Cuatro Patas",
+        "correo": "4patas@gmail.com",
+        "ciudad": "Calí",
+        "direccion": "Calle 23 # 45 C 22",
+        "telefono": "3215467894",
+        "descripcion": "Fundada por amantes de los animales, esta fundación conecta a mascotas rescatadas con familias que buscan darles un hogar lleno de cariño y cuidados."
+    },
+    {
+        "id": 4,
+        "nombre": "Rescate y Amor",
+        "correo": "r&a@gmail.com",
+        "ciudad": "Melgar",
+        "direccion": "Calle 23 # 45 C 2",
+        "telefono": "3217420237",
+        "descripcion": "Con un enfoque en el rescate de mascotas en situación crítica, esta fundación organiza jornadas de adopción y fomenta la conciencia sobre la importancia de esterilización y vacunación."
+    },
+    {
+        "id": 5,
+        "nombre": "Manos por Mascotas",
+        "correo": "manosxmascotas@gmail.com",
+        "ciudad": "Bogotá D.C",
+        "direccion": "Calle 23 # 45 C 23",
+        "telefono": "3210007777",
+        "descripcion": "Especializada en la adopción de perros y gatos, esta fundación ofrece refugio temporal y rehabilitación a mascotas, asegurándose de que encuentren el hogar perfecto."
+    },
+    {
+        "id": 6,
+        "nombre": "Salva una Vida Animal",
+        "correo": "salvaVida@gmail.com",
+        "ciudad": "Bogotá D.C",
+        "direccion": "Calle 23 # 45 C 24",
+        "telefono": "3217894561",
+        "descripcion": "Un grupo de voluntarios comprometidos con la protección animal, ofreciendo cuidados médicos y psicológicos a mascotas rescatadas antes de ser puestas en adopción."
+    },
+    {
+        "id": 7,
+        "nombre": "Guardianes Peludos",
+        "correo": "gp@gmail.com",
+        "ciudad": "Medellin",
+        "direccion": "Calle 23 # 45 C 2",
+        "telefono": "3216549870",
+        "descripcion": "Fundada para combatir el abandono y el maltrato animal, esta fundación se enfoca en la adopción de perros y gatos, promoviendo la tenencia responsable y el respeto por los animales."
+    },
+    {
+        "id": 8,
+        "nombre": "Caminos de Pata",
+        "correo": "caminosDePata@gmail.com",
+        "ciudad": "Calí",
+        "direccion": "Calle 23 # 45 C 25",
+        "telefono": "3214527832",
+        "descripcion": "A través de programas de rescate y adopción, esta fundación se enfoca en educar a la sociedad sobre los derechos de los animales y cómo pueden contribuir a mejorar sus vidas."
+    },
+    {
+        "id": 9,
+        "nombre": "Corazones Adoptivos",
+        "correo": "Camascotas@gmail.com",
+        "ciudad": "Barranquilla",
+        "direccion": "Calle 23 # 45 C 26",
+        "telefono": "3210567891",
+        "descripcion": "Esta fundación se dedica a encontrar hogares para mascotas abandonadas en zonas rurales y urbanas, brindándoles atención médica y el amor que merecen."
+    },
+    {
+        "id": 10,
+        "nombre": "Patitas del Corazon",
+        "correo": "patitasCorazon@gmail.com",
+        "ciudad": "Medellin",
+        "direccion": "Calle 23 # 45 C 27",
+        "telefono": "3217890264",
+        "descripcion": "Promueve la adopción de mascotas como una forma de brindar amor y recibir lealtad incondicional. Ofrece programas de rehabilitación para animales rescatados y educación sobre el cuidado responsable."
+    }
+]
